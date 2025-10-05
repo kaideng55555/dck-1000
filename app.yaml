@@ -1,0 +1,7 @@
+version: 2023-01-12
+build:
+  env:
+    NODE_VERSION: 18
+run:
+  env:
+    PORT: 8080
